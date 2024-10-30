@@ -1,0 +1,15 @@
+Font-family----------
+font-family: "Poppins", sans-serif;
+font-family: "Roboto", sans-serif;
+poppins-400, 500, 700
+
+roboto - 400
+
+color------------
+green - #21B573;
+red -   #FD511A;
+black - #000000;
+
+
+
+    
